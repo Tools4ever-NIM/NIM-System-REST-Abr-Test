@@ -1,4 +1,7 @@
 {
   "schema": {},
-  "rest": {}
+  "rest": {
+    "config": {
+    }
+  }
 }
